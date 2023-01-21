@@ -1,0 +1,10 @@
+TYPE METHOD
+
+1.Type is a method in python in which it returns the DATA TYPE of the argument passed in the parameter.
+2. The type method is represented as "type()"
+3. The type method gives the output as int,float,str.
+4. The type method can be declared in two ways
+   i)  print(type(4))...
+   ii) a="welcome to Github"
+       print(type(a))
+5. It gives output in the format of <class 'int'>...
